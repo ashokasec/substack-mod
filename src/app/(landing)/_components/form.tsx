@@ -75,7 +75,7 @@ const EmailForm = () => {
               <FormItem>
                 <FormControl>
                   <Input
-                    placeholder="shadcn@gmail.com"
+                    placeholder="your-name@example.com"
                     className="w-full text-base text-black focus-visible:ring-blue-500 px-6 py-6 bg-white/5 border border-blue-500/20 rounded-xl focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all placeholder:text-gray-500 disabled:opacity-70"
                     style={bricolage.style}
                     {...field}
